@@ -1,0 +1,35 @@
+.Ws{
+    position: relative;
+    color: #fff;
+    width: 60%;
+    height: 100%;
+    /* background-color: violet; */
+}
+
+.Wl{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    width: 70%;
+    position: absolute;
+    bottom: 10%;
+    /* background-color: brown; */
+}
+
+.Tp{
+    font-size: 6em;
+}
+
+h1{
+    font-size: 3em;
+}
+
+h2{
+    font-size: 4em;
+}
+
+.Ws p{
+    font-size: 17px;
+    letter-spacing: 2px;
+}
