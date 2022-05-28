@@ -3,7 +3,7 @@
 <h1>Desafio React</h1>
 <h3>Status:Incompleto</h3>
 A aplicação está incompleta. E por causa da falta de experiência, acabei focando mais na estilização.
-A documentação pode esta confusa, peço perdão
+A documentação pode estar confusa, peço perdão
 <hr>
 <div> 
 Estava utilizando o <a href= "https://vitejs.dev" > Vite</a> nesse teste, ao invés do create-react app.
